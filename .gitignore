@@ -22,9 +22,14 @@
 # TestResults.xml
 
 # ignore an entire directory
+
 /checkpoints/
 
 /fairseq/
+
+/mosesdecoder/
+
+/subword-nmt/
 
 # ignore a file type
 *.pt
